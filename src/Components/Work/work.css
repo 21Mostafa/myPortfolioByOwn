@@ -1,0 +1,26 @@
+.wantimg{
+   /* background-image: url("./LayerTwo.png");  */
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+     
+
+}
+.akotro{
+    float: left;
+}
+
+.left{
+    background-color: rgba(111, 132, 230, .3);
+}
+.right{
+    background-color:rgb(166, 216, 166);
+    
+}
+
+.smalls{
+    background-size: 100% auto;
+    width: 200px;
+}
+.full-color{
+    background-color: rgba(153, 205, 50, 0.555);
+}

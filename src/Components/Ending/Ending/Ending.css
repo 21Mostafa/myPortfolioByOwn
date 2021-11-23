@@ -1,0 +1,12 @@
+.black{
+background-color:black    
+}
+.deleted{
+    text-decoration:none;
+     
+     
+}
+.deleted:hover{
+    transition: background-color 2s ease 1s ;
+    color: rgb(185, 142, 24);
+}
